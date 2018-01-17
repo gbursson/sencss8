@@ -2,8 +2,5 @@
 @import url(02-pocketgrid.css);
 @import url(03-utility.css);
 @import url(04-typography.css);
-@import url(forms.css);
-@import url(media-desktop.css);
-@import url(media-mobile.css);
-
-
+@import url(05-media-desktop.css);
+@import url(06-media-mobile.css);
